@@ -1,0 +1,1243 @@
+{
+  "columns": [
+    { "id": "number", "title": "Number" },
+    { "id": "title", "title": "Movie" },
+    { "id": "releaseDate", "title": "Release Date" },
+    { "id": "productionBudget", "title": "Production Budget" },
+    { "id": "worldwideBoxOffice", "title": "Worldwide Box Office" }
+  ],
+  "rows": [
+    {
+      "number": 1,
+      "releaseDate": "02-05-2008",
+      "title": "Iron Man",
+      "productionBudget": 186000000,
+      "worldwideBoxOffice": 585171547
+    },
+    {
+      "number": 2,
+      "releaseDate": "13-06-2008",
+      "title": "The Incredible Hulk",
+      "productionBudget": 137500000,
+      "worldwideBoxOffice": 265573859
+    },
+    {
+      "number": 3,
+      "releaseDate": "07-05-2010",
+      "title": "Iron Man 2",
+      "productionBudget": 170000000,
+      "worldwideBoxOffice": 621156389
+    },
+    {
+      "number": 4,
+      "releaseDate": "06-05-2011",
+      "title": "Thor",
+      "productionBudget": 150000000,
+      "worldwideBoxOffice": 449326618
+    },
+    {
+      "number": 5,
+      "releaseDate": "22-07-2011",
+      "title": "Captain America: The First Avenger",
+      "productionBudget": 140000000,
+      "worldwideBoxOffice": 370569776
+    },
+    {
+      "number": 6,
+      "releaseDate": "04-05-2012",
+      "title": "The Avengers",
+      "productionBudget": 225000000,
+      "worldwideBoxOffice": 1519479547
+    },
+    {
+      "number": 7,
+      "releaseDate": "03-05-2013",
+      "title": "Iron Man 3",
+      "productionBudget": 200000000,
+      "worldwideBoxOffice": 1215392272
+    },
+    {
+      "number": 8,
+      "releaseDate": "08-11-2013",
+      "title": "Thor: The Dark World",
+      "productionBudget": 150000000,
+      "worldwideBoxOffice": 644602516
+    },
+    {
+      "number": 9,
+      "releaseDate": "04-04-2014",
+      "title": "Captain America: The Winter Soldier",
+      "productionBudget": 170000000,
+      "worldwideBoxOffice": 714401889
+    },
+    {
+      "number": 10,
+      "releaseDate": "01-08-2014",
+      "title": "Guardians of the Galaxy",
+      "productionBudget": 170000000,
+      "worldwideBoxOffice": 771051335
+    },
+    {
+      "number": 11,
+      "releaseDate": "01-05-2015",
+      "title": "Avengers: Age of Ultron",
+      "productionBudget": 330600000,
+      "worldwideBoxOffice": 1408218722
+    },
+    {
+      "number": 12,
+      "releaseDate": "17-07-2015",
+      "title": "Ant-Man",
+      "productionBudget": 130000000,
+      "worldwideBoxOffice": 518860086
+    },
+    {
+      "number": 13,
+      "releaseDate": "06-05-2016",
+      "title": "Captain America: Civil War",
+      "productionBudget": 250000000,
+      "worldwideBoxOffice": 1153304495
+    },
+    {
+      "number": 14,
+      "releaseDate": "04-11-2016",
+      "title": "Doctor Strange",
+      "productionBudget": 165000000,
+      "worldwideBoxOffice": 677323653
+    },
+    {
+      "number": 15,
+      "releaseDate": "05-05-2017",
+      "title": "Guardians of the Galaxy Vol. 2",
+      "productionBudget": 200000000,
+      "worldwideBoxOffice": 863756051
+    },
+    {
+      "number": 16,
+      "releaseDate": "07-07-2017",
+      "title": "Spider-Man: Homecoming",
+      "productionBudget": 175000000,
+      "worldwideBoxOffice": 880166924
+    },
+    {
+      "number": 17,
+      "releaseDate": "03-11-2017",
+      "title": "Thor: Ragnarok",
+      "productionBudget": 180000000,
+      "worldwideBoxOffice": 854006223
+    },
+    {
+      "number": 18,
+      "releaseDate": "16-02-2018",
+      "title": "Black Panther",
+      "productionBudget": 200000000,
+      "worldwideBoxOffice": 1346913161
+    },
+    {
+      "number": 19,
+      "releaseDate": "27-04-2018",
+      "title": "Avengers: Infinity War",
+      "productionBudget": 300000000,
+      "worldwideBoxOffice": 2048359754
+    },
+    {
+      "number": 20,
+      "releaseDate": "06-07-2018",
+      "title": "Ant-Man and the Wasp",
+      "productionBudget": 162000000,
+      "worldwideBoxOffice": 622674139
+    },
+    {
+      "number": 21,
+      "releaseDate": "08-03-2019",
+      "title": "Captain Marvel",
+      "productionBudget": 175000000,
+      "worldwideBoxOffice": 1128274794
+    },
+    {
+      "number": 22,
+      "releaseDate": "26-04-2019",
+      "title": "Avengers: Endgame",
+      "productionBudget": 356000000,
+      "worldwideBoxOffice": 2797800564
+    },
+    {
+      "number": 23,
+      "releaseDate": "02-07-2019",
+      "title": "Spider-Man: Far From Home",
+      "productionBudget": 160000000,
+      "worldwideBoxOffice": 1131927996
+    },
+    {
+      "number": 24,
+      "releaseDate": "06-11-2020",
+      "title": "Black Widow",
+      "productionBudget": 200000000,
+      "worldwideBoxOffice": 379751655
+    },
+    {
+      "number": 25,
+      "releaseDate": "05-11-2021",
+      "title": "Eternals",
+      "productionBudget": 200000000,
+      "worldwideBoxOffice": 402064899
+    },
+    {
+      "number": 26,
+      "releaseDate": "06-05-2022",
+      "title": "Doctor Strange in the Multiverse of Madness",
+      "productionBudget": 200000000,
+      "worldwideBoxOffice": 955775804
+    },
+    {
+      "number": 27,
+      "releaseDate": "19-12-1997",
+      "title": "Titanic",
+      "productionBudget": 200000000,
+      "worldwideBoxOffice": 2201647264
+    },
+    {
+      "number": 28,
+      "releaseDate": "18-12-2009",
+      "title": "Avatar",
+      "productionBudget": 237000000,
+      "worldwideBoxOffice": 2920417000
+    },
+    {
+      "number": 29,
+      "releaseDate": "15-12-2017",
+      "title": "Star Wars: The Last Jedi",
+      "productionBudget": 317000000,
+      "worldwideBoxOffice": 1332539889
+    },
+    {
+      "number": 30,
+      "releaseDate": "16-06-1995",
+      "title": "Batman Forever",
+      "productionBudget": 100000000,
+      "worldwideBoxOffice": 336529144
+    },
+    {
+      "number": 31,
+      "releaseDate": "20-07-2012",
+      "title": "The Dark Knight Rises",
+      "productionBudget": 250000000,
+      "worldwideBoxOffice": 1081041287
+    },
+    {
+      "number": 32,
+      "releaseDate": "14-12-2012",
+      "title": "The Hobbit: An Unexpected Journey",
+      "productionBudget": 180000000,
+      "worldwideBoxOffice": 1017003568
+    },
+    {
+      "number": 33,
+      "releaseDate": "18-11-2005",
+      "title": "Harry Potter and the Goblet of Fire",
+      "productionBudget": 150000000,
+      "worldwideBoxOffice": 896911078
+    },
+    {
+      "number": 34,
+      "releaseDate": "25-05-1977",
+      "title": "Star Wars: Episode IV - A New Hope",
+      "productionBudget": 11000000,
+      "worldwideBoxOffice": 775398007
+    },
+    {
+      "number": 35,
+      "releaseDate": "12-02-2016",
+      "title": "Deadpool",
+      "productionBudget": 58000000,
+      "worldwideBoxOffice": 782612155
+    },
+    {
+      "number": 36,
+      "releaseDate": "18-07-2008",
+      "title": "The Dark Knight",
+      "productionBudget": 185000000,
+      "worldwideBoxOffice": 1005455211
+    },
+    {
+      "number": 37,
+      "releaseDate": "17-12-2003",
+      "title": "The Lord of the Rings: The Return of the King",
+      "productionBudget": 94000000,
+      "worldwideBoxOffice": 1146030912
+    },
+    {
+      "number": 38,
+      "releaseDate": "15-07-2011",
+      "title": "Harry Potter and the Deathly Hallows – Part 2",
+      "productionBudget": 125000000,
+      "worldwideBoxOffice": 1342025430
+    },
+    {
+      "number": 39,
+      "releaseDate": "14-12-2016",
+      "title": "Rogue One: A Star Wars Story",
+      "productionBudget": 200000000,
+      "worldwideBoxOffice": 1056057273
+    },
+    {
+      "number": 40,
+      "releaseDate": "15-06-1994",
+      "title": "The Lion King",
+      "productionBudget": 45000000,
+      "worldwideBoxOffice": 968511805
+    },
+    {
+      "number": 41,
+      "releaseDate": "01-07-1991",
+      "title": "Terminator 2: Judgment Day",
+      "productionBudget": 102000000,
+      "worldwideBoxOffice": 520881154
+    },
+    {
+      "number": 42,
+      "releaseDate": "11-06-1993",
+      "title": "Jurassic Park",
+      "productionBudget": 63000000,
+      "worldwideBoxOffice": 1033928302
+    },
+    {
+      "number": 43,
+      "releaseDate": "19-06-2015",
+      "title": "Inside Out",
+      "productionBudget": 175000000,
+      "worldwideBoxOffice": 857611174
+    },
+    {
+      "number": 44,
+      "releaseDate": "25-12-2009",
+      "title": "Sherlock Holmes",
+      "productionBudget": 90000000,
+      "worldwideBoxOffice": 524028679
+    },
+    {
+      "number": 45,
+      "releaseDate": "25-05-2007",
+      "title": "Pirates of the Caribbean: At World's End",
+      "productionBudget": 300000000,
+      "worldwideBoxOffice": 963420425
+    },
+    {
+      "number": 46,
+      "releaseDate": "14-02-2019",
+      "title": "Alita: Battle Angel",
+      "productionBudget": 170000000,
+      "worldwideBoxOffice": 404852543
+    },
+    {
+      "number": 47,
+      "releaseDate": "07-06-2019",
+      "title": "Dark Phoenix",
+      "productionBudget": 200000000,
+      "worldwideBoxOffice": 252442974
+    },
+    {
+      "number": 48,
+      "releaseDate": "16-05-2014",
+      "title": "Godzilla",
+      "productionBudget": 160000000,
+      "worldwideBoxOffice": 529076069
+    },
+    {
+      "number": 49,
+      "releaseDate": "20-12-2017",
+      "title": "Jumanji: Welcome to the Jungle",
+      "productionBudget": 90000000,
+      "worldwideBoxOffice": 962542945
+    },
+    {
+      "number": 50,
+      "releaseDate": "02-07-2019",
+      "title": "Spider-Man: Far From Home",
+      "productionBudget": 160000000,
+      "worldwideBoxOffice": 1131927996
+    },
+    {
+      "number": 51,
+      "releaseDate": "21-06-2019",
+      "title": "Toy Story 4",
+      "productionBudget": 200000000,
+      "worldwideBoxOffice": 1073394593
+    },
+    {
+      "number": 52,
+      "releaseDate": "04-05-2012",
+      "title": "The Avengers",
+      "productionBudget": 220000000,
+      "worldwideBoxOffice": 1518812988
+    },
+    {
+      "number": 53,
+      "releaseDate": "22-11-2013",
+      "title": "Frozen",
+      "productionBudget": 150000000,
+      "worldwideBoxOffice": 1276480335
+    },
+    {
+      "number": 54,
+      "releaseDate": "19-05-1999",
+      "title": "Star Wars: Episode I – The Phantom Menace",
+      "productionBudget": 115000000,
+      "worldwideBoxOffice": 1027044677
+    },
+    {
+      "number": 55,
+      "releaseDate": "10-07-2015",
+      "title": "Minions",
+      "productionBudget": 74000000,
+      "worldwideBoxOffice": 1159398397
+    },
+    {
+      "number": 56,
+      "releaseDate": "17-12-2021",
+      "title": "Spider-Man: No Way Home",
+      "productionBudget": 200000000,
+      "worldwideBoxOffice": 1929559711
+    },
+    {
+      "number": 57,
+      "releaseDate": "22-11-2019",
+      "title": "Frozen II",
+      "productionBudget": 150000000,
+      "worldwideBoxOffice": 1450026933
+    },
+    {
+      "number": 58,
+      "releaseDate": "17-12-2021",
+      "title": "The Matrix Resurrections",
+      "productionBudget": 190000000,
+      "worldwideBoxOffice": 427300000
+    },
+    {
+      "number": 59,
+      "releaseDate": "29-03-2019",
+      "title": "Dumbo",
+      "productionBudget": 170000000,
+      "worldwideBoxOffice": 353284621
+    },
+    {
+      "number": 60,
+      "releaseDate": "21-12-2018",
+      "title": "Aquaman",
+      "productionBudget": 160000000,
+      "worldwideBoxOffice": 1148481136
+    },
+    {
+      "number": 61,
+      "releaseDate": "23-05-2014",
+      "title": "X-Men: Days of Future Past",
+      "productionBudget": 200000000,
+      "worldwideBoxOffice": 747862775
+    },
+    {
+      "number": 62,
+      "releaseDate": "24-03-2017",
+      "title": "Power Rangers",
+      "productionBudget": 100000000,
+      "worldwideBoxOffice": 142337240
+    },
+    {
+      "number": 63,
+      "releaseDate": "15-12-2016",
+      "title": "Passengers",
+      "productionBudget": 110000000,
+      "worldwideBoxOffice": 303144152
+    },
+    {
+      "number": 64,
+      "releaseDate": "03-11-2017",
+      "title": "Justice League",
+      "productionBudget": 300000000,
+      "worldwideBoxOffice": 657926987
+    },
+    {
+      "number": 65,
+      "releaseDate": "14-12-2018",
+      "title": "Spider-Man: Into the Spider-Verse",
+      "productionBudget": 90000000,
+      "worldwideBoxOffice": 375540831
+    },
+    {
+      "number": 66,
+      "releaseDate": "14-06-2013",
+      "title": "Man of Steel",
+      "productionBudget": 225000000,
+      "worldwideBoxOffice": 668045518
+    },
+    {
+      "number": 67,
+      "releaseDate": "22-11-2019",
+      "title": "Knives Out",
+      "productionBudget": 40000000,
+      "worldwideBoxOffice": 311400998
+    },
+    {
+      "number": 68,
+      "releaseDate": "15-06-2018",
+      "title": "Incredibles 2",
+      "productionBudget": 200000000,
+      "worldwideBoxOffice": 1242805359
+    },
+    {
+      "number": 69,
+      "releaseDate": "07-06-2019",
+      "title": "Dark Phoenix",
+      "productionBudget": 200000000,
+      "worldwideBoxOffice": 252442974
+    },
+    {
+      "number": 70,
+      "releaseDate": "24-05-2019",
+      "title": "Aladdin (2019)",
+      "productionBudget": 183000000,
+      "worldwideBoxOffice": 1050576019
+    },
+    {
+      "number": 71,
+      "releaseDate": "27-03-2015",
+      "title": "Home",
+      "productionBudget": 135000000,
+      "worldwideBoxOffice": 386041607
+    },
+    {
+      "number": 72,
+      "releaseDate": "15-11-2019",
+      "title": "Ford v Ferrari",
+      "productionBudget": 97600000,
+      "worldwideBoxOffice": 225508210
+    },
+    {
+      "number": 73,
+      "releaseDate": "06-03-2020",
+      "title": "Onward",
+      "productionBudget": 200000000,
+      "worldwideBoxOffice": 141940042
+    },
+    {
+      "number": 74,
+      "releaseDate": "22-05-2015",
+      "title": "Tomorrowland",
+      "productionBudget": 190000000,
+      "worldwideBoxOffice": 209035668
+    },
+    {
+      "number": 75,
+      "releaseDate": "17-12-2020",
+      "title": "Wonder Woman 1984",
+      "productionBudget": 200000000,
+      "worldwideBoxOffice": 169602006
+    },
+    {
+      "number": 76,
+      "releaseDate": "25-11-2020",
+      "title": "The Croods: A New Age",
+      "productionBudget": 65000000,
+      "worldwideBoxOffice": 215905815
+    },
+    {
+      "number": 77,
+      "releaseDate": "15-12-2017",
+      "title": "Star Wars: The Last Jedi",
+      "productionBudget": 317000000,
+      "worldwideBoxOffice": 1332539889
+    },
+    {
+      "number": 78,
+      "releaseDate": "23-06-1995",
+      "title": "Pocahontas",
+      "productionBudget": 55000000,
+      "worldwideBoxOffice": 346079773
+    },
+    {
+      "number": 79,
+      "releaseDate": "18-05-2001",
+      "title": "Shrek",
+      "productionBudget": 60000000,
+      "worldwideBoxOffice": 484409218
+    },
+    {
+      "number": 80,
+      "releaseDate": "18-12-2015",
+      "title": "Star Wars: The Force Awakens",
+      "productionBudget": 245000000,
+      "worldwideBoxOffice": 2068223624
+    },
+    {
+      "number": 81,
+      "releaseDate": "19-07-2019",
+      "title": "The Lion King (2019)",
+      "productionBudget": 260000000,
+      "worldwideBoxOffice": 1656943394
+    },
+    {
+      "number": 82,
+      "releaseDate": "07-08-2009",
+      "title": "G.I. Joe: The Rise of Cobra",
+      "productionBudget": 175000000,
+      "worldwideBoxOffice": 302469017
+    },
+    {
+      "number": 83,
+      "releaseDate": "03-07-2013",
+      "title": "Despicable Me 2",
+      "productionBudget": 76000000,
+      "worldwideBoxOffice": 970761885
+    },
+    {
+      "number": 84,
+      "releaseDate": "14-12-2018",
+      "title": "Mortal Engines",
+      "productionBudget": 100000000,
+      "worldwideBoxOffice": 83869085
+    },
+    {
+      "number": 85,
+      "releaseDate": "18-12-2013",
+      "title": "The Hobbit: The Desolation of Smaug",
+      "productionBudget": 225000000,
+      "worldwideBoxOffice": 958366855
+    },
+    {
+      "number": 86,
+      "releaseDate": "13-12-2019",
+      "title": "Jumanji: The Next Level",
+      "productionBudget": 125000000,
+      "worldwideBoxOffice": 800059707
+    },
+    {
+      "number": 87,
+      "releaseDate": "01-07-2016",
+      "title": "The Legend of Tarzan",
+      "productionBudget": 180000000,
+      "worldwideBoxOffice": 356700357
+    },
+    {
+      "number": 88,
+      "releaseDate": "05-08-2016",
+      "title": "Suicide Squad",
+      "productionBudget": 175000000,
+      "worldwideBoxOffice": 746846894
+    },
+    {
+      "number": 89,
+      "releaseDate": "15-07-2016",
+      "title": "Ghostbusters (2016)",
+      "productionBudget": 144000000,
+      "worldwideBoxOffice": 229147509
+    },
+    {
+      "number": 90,
+      "releaseDate": "22-11-2013",
+      "title": "The Hunger Games: Catching Fire",
+      "productionBudget": 130000000,
+      "worldwideBoxOffice": 865011746
+    },
+    {
+      "number": 91,
+      "releaseDate": "02-11-2012",
+      "title": "Wreck-It Ralph",
+      "productionBudget": 165000000,
+      "worldwideBoxOffice": 471222889
+    },
+    {
+      "number": 92,
+      "releaseDate": "10-12-2009",
+      "title": "The Princess and the Frog",
+      "productionBudget": 105000000,
+      "worldwideBoxOffice": 267045765
+    },
+    {
+      "number": 93,
+      "releaseDate": "06-07-2012",
+      "title": "The Amazing Spider-Man",
+      "productionBudget": 230000000,
+      "worldwideBoxOffice": 757930663
+    },
+    {
+      "number": 94,
+      "releaseDate": "01-06-2012",
+      "title": "Snow White and the Huntsman",
+      "productionBudget": 170000000,
+      "worldwideBoxOffice": 396592829
+    },
+    {
+      "number": 95,
+      "releaseDate": "23-03-2012",
+      "title": "The Hunger Games",
+      "productionBudget": 78000000,
+      "worldwideBoxOffice": 694394724
+    },
+    {
+      "number": 96,
+      "releaseDate": "25-05-2018",
+      "title": "Solo: A Star Wars Story",
+      "productionBudget": 275000000,
+      "worldwideBoxOffice": 393151347
+    },
+    {
+      "number": 97,
+      "releaseDate": "02-10-2015",
+      "title": "The Martian",
+      "productionBudget": 108000000,
+      "worldwideBoxOffice": 630161890
+    },
+    {
+      "number": 98,
+      "releaseDate": "21-07-2017",
+      "title": "Valerian and the City of a Thousand Planets",
+      "productionBudget": 177000000,
+      "worldwideBoxOffice": 225874228
+    },
+    {
+      "number": 99,
+      "releaseDate": "07-11-2014",
+      "title": "Interstellar",
+      "productionBudget": 165000000,
+      "worldwideBoxOffice": 701729206
+    },
+    {
+      "number": 100,
+      "releaseDate": "25-12-2019",
+      "title": "Little Women",
+      "productionBudget": 40000000,
+      "worldwideBoxOffice": 218902354
+    },
+    {
+      "number": 101,
+      "releaseDate": "10-06-2016",
+      "title": "Warcraft",
+      "productionBudget": 160000000,
+      "worldwideBoxOffice": 439048914
+    },
+    {
+      "number": 102,
+      "releaseDate": "25-03-2016",
+      "title": "Batman v Superman: Dawn of Justice",
+      "productionBudget": 250000000,
+      "worldwideBoxOffice": 873634919
+    },
+    {
+      "number": 103,
+      "releaseDate": "06-02-2015",
+      "title": "Jupiter Ascending",
+      "productionBudget": 176000000,
+      "worldwideBoxOffice": 183987723
+    },
+    {
+      "number": 104,
+      "releaseDate": "25-11-2015",
+      "title": "The Good Dinosaur",
+      "productionBudget": 175000000,
+      "worldwideBoxOffice": 332207671
+    },
+    {
+      "number": 105,
+      "releaseDate": "21-07-2017",
+      "title": "Dunkirk",
+      "productionBudget": 100000000,
+      "worldwideBoxOffice": 526940665
+    },
+    {
+      "number": 106,
+      "releaseDate": "27-04-2012",
+      "title": "Battleship",
+      "productionBudget": 209000000,
+      "worldwideBoxOffice": 303025485
+    },
+    {
+      "number": 107,
+      "releaseDate": "16-11-2012",
+      "title": "The Twilight Saga: Breaking Dawn – Part 2",
+      "productionBudget": 136200000,
+      "worldwideBoxOffice": 829724737
+    },
+    {
+      "number": 108,
+      "releaseDate": "22-07-2016",
+      "title": "Star Trek Beyond",
+      "productionBudget": 185000000,
+      "worldwideBoxOffice": 343471816
+    },
+    {
+      "number": 109,
+      "releaseDate": "07-04-2017",
+      "title": "Smurfs: The Lost Village",
+      "productionBudget": 60000000,
+      "worldwideBoxOffice": 197183546
+    },
+    {
+      "number": 110,
+      "releaseDate": "10-11-2017",
+      "title": "Murder on the Orient Express",
+      "productionBudget": 55000000,
+      "worldwideBoxOffice": 352794071
+    },
+    {
+      "number": 111,
+      "releaseDate": "17-03-2017",
+      "title": "Beauty and the Beast (2017)",
+      "productionBudget": 160000000,
+      "worldwideBoxOffice": 1263521126
+    },
+    {
+      "number": 112,
+      "releaseDate": "20-05-2011",
+      "title": "Pirates of the Caribbean: On Stranger Tides",
+      "productionBudget": 250000000,
+      "worldwideBoxOffice": 1045713802
+    },
+    {
+      "number": 113,
+      "releaseDate": "01-12-2017",
+      "title": "The Shape of Water",
+      "productionBudget": 19500000,
+      "worldwideBoxOffice": 195243443
+    },
+    {
+      "number": 114,
+      "releaseDate": "28-09-2018",
+      "title": "Night School",
+      "productionBudget": 29000000,
+      "worldwideBoxOffice": 103105878
+    },
+    {
+      "number": 115,
+      "releaseDate": "16-05-2019",
+      "title": "John Wick: Chapter 3 – Parabellum",
+      "productionBudget": 75000000,
+      "worldwideBoxOffice": 326709727
+    },
+    {
+      "number": 116,
+      "releaseDate": "22-02-2019",
+      "title": "How to Train Your Dragon: The Hidden World",
+      "productionBudget": 129000000,
+      "worldwideBoxOffice": 525532677
+    },
+    {
+      "number": 117,
+      "releaseDate": "13-04-2018",
+      "title": "Rampage",
+      "productionBudget": 120000000,
+      "worldwideBoxOffice": 428028233
+    },
+    {
+      "number": 118,
+      "releaseDate": "05-04-2019",
+      "title": "Shazam!",
+      "productionBudget": 100000000,
+      "worldwideBoxOffice": 366080049
+    },
+    {
+      "number": 119,
+      "releaseDate": "17-02-2017",
+      "title": "The Great Wall",
+      "productionBudget": 150000000,
+      "worldwideBoxOffice": 334933831
+    },
+    {
+      "number": 120,
+      "releaseDate": "29-03-2019",
+      "title": "Dumbo (2019)",
+      "productionBudget": 170000000,
+      "worldwideBoxOffice": 353284621
+    },
+    {
+      "number": 121,
+      "releaseDate": "17-05-2019",
+      "title": "A Dog's Journey",
+      "productionBudget": 16000000,
+      "worldwideBoxOffice": 75954370
+    },
+    {
+      "number": 122,
+      "releaseDate": "06-11-2015",
+      "title": "Spectre",
+      "productionBudget": 245000000,
+      "worldwideBoxOffice": 880674609
+    },
+    {
+      "number": 123,
+      "releaseDate": "22-06-2018",
+      "title": "Jurassic World: Fallen Kingdom",
+      "productionBudget": 170000000,
+      "worldwideBoxOffice": 1309484461
+    },
+    {
+      "number": 124,
+      "releaseDate": "18-05-2018",
+      "title": "Deadpool 2",
+      "productionBudget": 110000000,
+      "worldwideBoxOffice": 786470484
+    },
+    {
+      "number": 125,
+      "releaseDate": "27-07-2018",
+      "title": "Mission: Impossible – Fallout",
+      "productionBudget": 178000000,
+      "worldwideBoxOffice": 791657398
+    },
+    {
+      "number": 126,
+      "releaseDate": "25-12-2017",
+      "title": "Jumanji: Welcome to the Jungle",
+      "productionBudget": 90000000,
+      "worldwideBoxOffice": 962542945
+    },
+    {
+      "number": 127,
+      "releaseDate": "03-11-2016",
+      "title": "Doctor Strange",
+      "productionBudget": 165000000,
+      "worldwideBoxOffice": 677718395
+    },
+    {
+      "number": 128,
+      "releaseDate": "05-07-2017",
+      "title": "Spider-Man: Homecoming",
+      "productionBudget": 175000000,
+      "worldwideBoxOffice": 880166924
+    },
+    {
+      "number": 129,
+      "releaseDate": "06-11-2015",
+      "title": "The Peanuts Movie",
+      "productionBudget": 99000000,
+      "worldwideBoxOffice": 246233113
+    },
+    {
+      "number": 130,
+      "releaseDate": "10-11-2016",
+      "title": "Arrival",
+      "productionBudget": 47000000,
+      "worldwideBoxOffice": 203388186
+    },
+    {
+      "number": 131,
+      "releaseDate": "21-10-2016",
+      "title": "Jack Reacher: Never Go Back",
+      "productionBudget": 60000000,
+      "worldwideBoxOffice": 162146076
+    },
+    {
+      "number": 132,
+      "releaseDate": "15-07-2016",
+      "title": "Ice Age: Collision Course",
+      "productionBudget": 105000000,
+      "worldwideBoxOffice": 408579819
+    },
+    {
+      "number": 133,
+      "releaseDate": "14-07-2017",
+      "title": "War for the Planet of the Apes",
+      "productionBudget": 150000000,
+      "worldwideBoxOffice": 490719763
+    },
+    {
+      "number": 134,
+      "releaseDate": "15-06-2018",
+      "title": "Tag",
+      "productionBudget": 28000000,
+      "worldwideBoxOffice": 78214514
+    },
+    {
+      "number": 135,
+      "releaseDate": "01-03-2019",
+      "title": "Greta",
+      "productionBudget": 4500000,
+      "worldwideBoxOffice": 18237914
+    },
+    {
+      "number": 136,
+      "releaseDate": "29-04-2016",
+      "title": "Keanu",
+      "productionBudget": 15000000,
+      "worldwideBoxOffice": 20593094
+    },
+    {
+      "number": 137,
+      "releaseDate": "21-08-2015",
+      "title": "Sinister 2",
+      "productionBudget": 10000000,
+      "worldwideBoxOffice": 54167909
+    },
+    {
+      "number": 138,
+      "releaseDate": "09-10-2015",
+      "title": "Pan",
+      "productionBudget": 150000000,
+      "worldwideBoxOffice": 128388320
+    },
+    {
+      "number": 139,
+      "releaseDate": "03-07-2015",
+      "title": "Terminator Genisys",
+      "productionBudget": 155000000,
+      "worldwideBoxOffice": 440603537
+    },
+    {
+      "number": 140,
+      "releaseDate": "20-02-2015",
+      "title": "The DUFF",
+      "productionBudget": 8500000,
+      "worldwideBoxOffice": 43351283
+    },
+    {
+      "number": 141,
+      "releaseDate": "22-05-2015",
+      "title": "Poltergeist",
+      "productionBudget": 35000000,
+      "worldwideBoxOffice": 95228267
+    },
+    {
+      "number": 142,
+      "releaseDate": "17-04-2015",
+      "title": "Unfriended",
+      "productionBudget": 1000000,
+      "worldwideBoxOffice": 64207445
+    },
+    {
+      "number": 143,
+      "releaseDate": "24-02-2017",
+      "title": "Get Out",
+      "productionBudget": 4500000,
+      "worldwideBoxOffice": 255407969
+    },
+    {
+      "number": 144,
+      "releaseDate": "06-03-2015",
+      "title": "Chappie",
+      "productionBudget": 49000000,
+      "worldwideBoxOffice": 102069268
+    },
+    {
+      "number": 145,
+      "releaseDate": "03-10-2014",
+      "title": "Gone Girl",
+      "productionBudget": 61000000,
+      "worldwideBoxOffice": 369330363
+    },
+    {
+      "number": 146,
+      "releaseDate": "05-05-2017",
+      "title": "Guardians of the Galaxy Vol. 2",
+      "productionBudget": 200000000,
+      "worldwideBoxOffice": 863756051
+    },
+    {
+      "number": 147,
+      "releaseDate": "15-03-2019",
+      "title": "Wonder Park",
+      "productionBudget": 100000000,
+      "worldwideBoxOffice": 119573005
+    },
+    {
+      "number": 148,
+      "releaseDate": "15-06-2018",
+      "title": "Superfly",
+      "productionBudget": 16000000,
+      "worldwideBoxOffice": 20656000
+    },
+    {
+      "number": 149,
+      "releaseDate": "08-11-2019",
+      "title": "Midway",
+      "productionBudget": 100000000,
+      "worldwideBoxOffice": 126725002
+    },
+    {
+      "number": 150,
+      "releaseDate": "20-09-2019",
+      "title": "Rambo: Last Blood",
+      "productionBudget": 50000000,
+      "worldwideBoxOffice": 91910935
+    },
+    {
+      "number": 151,
+      "releaseDate": "10-06-2016",
+      "title": "Now You See Me 2",
+      "productionBudget": 90000000,
+      "worldwideBoxOffice": 334901337
+    },
+    {
+      "number": 152,
+      "releaseDate": "14-09-2018",
+      "title": "The Predator",
+      "productionBudget": 88000000,
+      "worldwideBoxOffice": 160542134
+    },
+    {
+      "number": 153,
+      "releaseDate": "14-02-2019",
+      "title": "Isn't It Romantic",
+      "productionBudget": 31000000,
+      "worldwideBoxOffice": 48802145
+    },
+    {
+      "number": 154,
+      "releaseDate": "06-12-2019",
+      "title": "Playmobil: The Movie",
+      "productionBudget": 75000000,
+      "worldwideBoxOffice": 16336358
+    },
+    {
+      "number": 155,
+      "releaseDate": "02-03-2018",
+      "title": "Red Sparrow",
+      "productionBudget": 69000000,
+      "worldwideBoxOffice": 151572634
+    },
+    {
+      "number": 156,
+      "releaseDate": "13-05-2016",
+      "title": "Money Monster",
+      "productionBudget": 27000000,
+      "worldwideBoxOffice": 93599221
+    },
+    {
+      "number": 157,
+      "releaseDate": "09-08-2019",
+      "title": "Scary Stories to Tell in the Dark",
+      "productionBudget": 28000000,
+      "worldwideBoxOffice": 104545065
+    },
+    {
+      "number": 158,
+      "releaseDate": "10-07-2015",
+      "title": "Self/less",
+      "productionBudget": 26000000,
+      "worldwideBoxOffice": 31209296
+    },
+    {
+      "number": 159,
+      "releaseDate": "29-05-2015",
+      "title": "San Andreas",
+      "productionBudget": 110000000,
+      "worldwideBoxOffice": 474009151
+    },
+    {
+      "number": 160,
+      "releaseDate": "17-07-2015",
+      "title": "Trainwreck",
+      "productionBudget": 35000000,
+      "worldwideBoxOffice": 140795793
+    },
+    {
+      "number": 161,
+      "releaseDate": "28-06-2019",
+      "title": "Yesterday",
+      "productionBudget": 26000000,
+      "worldwideBoxOffice": 153186335
+    },
+    {
+      "number": 162,
+      "releaseDate": "21-02-2020",
+      "title": "The Call of the Wild",
+      "productionBudget": 135000000,
+      "worldwideBoxOffice": 107604651
+    },
+    {
+      "number": 163,
+      "releaseDate": "21-12-2018",
+      "title": "Bumblebee",
+      "productionBudget": 135000000,
+      "worldwideBoxOffice": 467989645
+    },
+    {
+      "number": 164,
+      "releaseDate": "02-02-2018",
+      "title": "Winchester",
+      "productionBudget": 3500000,
+      "worldwideBoxOffice": 44658923
+    },
+    {
+      "number": 165,
+      "releaseDate": "01-02-2019",
+      "title": "Miss Bala",
+      "productionBudget": 15000000,
+      "worldwideBoxOffice": 15410670
+    },
+    {
+      "number": 166,
+      "releaseDate": "15-12-2017",
+      "title": "Ferdinand",
+      "productionBudget": 111000000,
+      "worldwideBoxOffice": 296069200
+    },
+    {
+      "number": 167,
+      "releaseDate": "08-02-2019",
+      "title": "The Lego Movie 2: The Second Part",
+      "productionBudget": 99000000,
+      "worldwideBoxOffice": 192468433
+    },
+    {
+      "number": 168,
+      "releaseDate": "28-02-2020",
+      "title": "The Invisible Man",
+      "productionBudget": 7000000,
+      "worldwideBoxOffice": 143151000
+    },
+    {
+      "number": 169,
+      "releaseDate": "14-02-2020",
+      "title": "Sonic the Hedgehog",
+      "productionBudget": 85000000,
+      "worldwideBoxOffice": 319715683
+    },
+    {
+      "number": 170,
+      "releaseDate": "21-06-2019",
+      "title": "Child's Play",
+      "productionBudget": 10000000,
+      "worldwideBoxOffice": 45298284
+    },
+    {
+      "number": 171,
+      "releaseDate": "14-12-2018",
+      "title": "Once Upon a Deadpool",
+      "productionBudget": 110000000,
+      "worldwideBoxOffice": 61335956
+    },
+    {
+      "number": 172,
+      "releaseDate": "13-09-2019",
+      "title": "Hustlers",
+      "productionBudget": 20700000,
+      "worldwideBoxOffice": 157563598
+    },
+    {
+      "number": 173,
+      "releaseDate": "06-11-2020",
+      "title": "Tenet",
+      "productionBudget": 205000000,
+      "worldwideBoxOffice": 363656624
+    },
+    {
+      "number": 174,
+      "releaseDate": "20-12-2019",
+      "title": "Cats",
+      "productionBudget": 95000000,
+      "worldwideBoxOffice": 73833400
+    },
+    {
+      "number": 175,
+      "releaseDate": "27-12-2019",
+      "title": "1917",
+      "productionBudget": 95000000,
+      "worldwideBoxOffice": 384929299
+    },
+    {
+      "number": 176,
+      "releaseDate": "28-09-2018",
+      "title": "Smallfoot",
+      "productionBudget": 80000000,
+      "worldwideBoxOffice": 214110651
+    }
+  ]
+}
